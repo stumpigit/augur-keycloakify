@@ -1,7 +1,7 @@
 {
-    "name": "keycloakify-starter",
-    "version": "0.0.0",
-    "description": "Starter for Keycloakify 11",
+    "name": "augur-keycloakify",
+    "version": "0.1.0",
+    "description": "Keyvloak Theme for Augur",
     "repository": {
         "type": "git",
         "url": "git://github.com/codegouvfr/keycloakify-starter.git"
